@@ -1,0 +1,5 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Head First C#\Chapter 10\BankAccountOOP\BankAccountOOP\bin\Debug\BankAccountOOP.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Head First C#\Chapter 10\BankAccountOOP\BankAccountOOP\bin\Debug\BankAccountOOP.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Head First C#\Chapter 10\BankAccountOOP\BankAccountOOP\bin\Debug\BankAccountOOP.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Head First C#\Chapter 10\BankAccountOOP\BankAccountOOP\obj\Debug\BankAccountOOP.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Head First C#\Chapter 10\BankAccountOOP\BankAccountOOP\obj\Debug\BankAccountOOP.pdb
